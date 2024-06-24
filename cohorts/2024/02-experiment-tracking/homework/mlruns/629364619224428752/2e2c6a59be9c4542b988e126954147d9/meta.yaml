@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/629364619224428752/2e2c6a59be9c4542b988e126954147d9/artifacts
+end_time: 1717723752225
+entry_point_name: ''
+experiment_id: '629364619224428752'
+lifecycle_stage: active
+run_id: 2e2c6a59be9c4542b988e126954147d9
+run_name: spiffy-shark-143
+run_uuid: 2e2c6a59be9c4542b988e126954147d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717723745480
+status: 3
+tags: []
+user_id: DimiP

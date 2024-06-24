@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DimiP/Documents/GitHub/0%20REPOS%20My%20Learning/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/6ad24cdffae748b6bd8c5f14d6db5791/artifacts
+end_time: 1717718795872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ad24cdffae748b6bd8c5f14d6db5791
+run_name: fortunate-mole-961
+run_uuid: 6ad24cdffae748b6bd8c5f14d6db5791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717718795827
+status: 4
+tags: []
+user_id: DimiP

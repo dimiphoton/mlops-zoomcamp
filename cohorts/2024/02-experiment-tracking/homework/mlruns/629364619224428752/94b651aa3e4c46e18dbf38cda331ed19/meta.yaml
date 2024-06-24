@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/629364619224428752/94b651aa3e4c46e18dbf38cda331ed19/artifacts
+end_time: 1717723691268
+entry_point_name: ''
+experiment_id: '629364619224428752'
+lifecycle_stage: active
+run_id: 94b651aa3e4c46e18dbf38cda331ed19
+run_name: invincible-doe-242
+run_uuid: 94b651aa3e4c46e18dbf38cda331ed19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717723690305
+status: 3
+tags: []
+user_id: DimiP

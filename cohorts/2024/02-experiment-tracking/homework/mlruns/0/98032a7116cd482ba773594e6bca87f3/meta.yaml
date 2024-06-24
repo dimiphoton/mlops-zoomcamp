@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DimiP/Documents/GitHub/0%20REPOS%20My%20Learning/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/98032a7116cd482ba773594e6bca87f3/artifacts
+end_time: 1717719981543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98032a7116cd482ba773594e6bca87f3
+run_name: wistful-shark-286
+run_uuid: 98032a7116cd482ba773594e6bca87f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717719961961
+status: 3
+tags: []
+user_id: DimiP

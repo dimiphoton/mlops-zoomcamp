@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/811067925532428228/7f55f31af82e47f78421235c5ba2ff9a/artifacts
+end_time: 1717805213338
+entry_point_name: ''
+experiment_id: '811067925532428228'
+lifecycle_stage: active
+run_id: 7f55f31af82e47f78421235c5ba2ff9a
+run_name: secretive-stoat-587
+run_uuid: 7f55f31af82e47f78421235c5ba2ff9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717805196464
+status: 3
+tags: []
+user_id: DimiP

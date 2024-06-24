@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/629364619224428752/120d2059e955460cb115bed04c8561da/artifacts
+end_time: 1717723761735
+entry_point_name: ''
+experiment_id: '629364619224428752'
+lifecycle_stage: active
+run_id: 120d2059e955460cb115bed04c8561da
+run_name: bouncy-panda-435
+run_uuid: 120d2059e955460cb115bed04c8561da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717723757577
+status: 3
+tags: []
+user_id: DimiP

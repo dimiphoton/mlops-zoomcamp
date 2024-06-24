@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/629364619224428752/255aadc34f5a456d9bf0010badbb2b6c/artifacts
+end_time: 1717723775267
+entry_point_name: ''
+experiment_id: '629364619224428752'
+lifecycle_stage: active
+run_id: 255aadc34f5a456d9bf0010badbb2b6c
+run_name: painted-carp-836
+run_uuid: 255aadc34f5a456d9bf0010badbb2b6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717723767969
+status: 3
+tags: []
+user_id: DimiP

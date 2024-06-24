@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/629364619224428752/e024bdee578646948925a6fdb45cf069/artifacts
+end_time: 1717723721018
+entry_point_name: ''
+experiment_id: '629364619224428752'
+lifecycle_stage: active
+run_id: e024bdee578646948925a6fdb45cf069
+run_name: charming-pug-870
+run_uuid: e024bdee578646948925a6fdb45cf069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717723705287
+status: 3
+tags: []
+user_id: DimiP

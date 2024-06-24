@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/811067925532428228/81c5018d6900490da386c1a8cd24d3b1/artifacts
+end_time: 1717804306637
+entry_point_name: ''
+experiment_id: '811067925532428228'
+lifecycle_stage: active
+run_id: 81c5018d6900490da386c1a8cd24d3b1
+run_name: suave-lynx-623
+run_uuid: 81c5018d6900490da386c1a8cd24d3b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717804289654
+status: 3
+tags: []
+user_id: DimiP

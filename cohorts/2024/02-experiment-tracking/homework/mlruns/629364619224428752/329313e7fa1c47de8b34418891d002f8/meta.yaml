@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/629364619224428752/329313e7fa1c47de8b34418891d002f8/artifacts
+end_time: 1717723700208
+entry_point_name: ''
+experiment_id: '629364619224428752'
+lifecycle_stage: active
+run_id: 329313e7fa1c47de8b34418891d002f8
+run_name: resilient-cat-558
+run_uuid: 329313e7fa1c47de8b34418891d002f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717723691304
+status: 3
+tags: []
+user_id: DimiP

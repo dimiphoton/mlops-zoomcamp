@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/629364619224428752/b21b4dc86e964cb8b25594b087c2a946/artifacts
+end_time: 1717723735346
+entry_point_name: ''
+experiment_id: '629364619224428752'
+lifecycle_stage: active
+run_id: b21b4dc86e964cb8b25594b087c2a946
+run_name: likeable-ox-125
+run_uuid: b21b4dc86e964cb8b25594b087c2a946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717723721054
+status: 3
+tags: []
+user_id: DimiP

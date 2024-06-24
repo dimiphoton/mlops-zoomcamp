@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/629364619224428752/5cdc0ae857e64608b804b4943051f053/artifacts
+end_time: 1717723745449
+entry_point_name: ''
+experiment_id: '629364619224428752'
+lifecycle_stage: active
+run_id: 5cdc0ae857e64608b804b4943051f053
+run_name: redolent-lynx-317
+run_uuid: 5cdc0ae857e64608b804b4943051f053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717723736875
+status: 3
+tags: []
+user_id: DimiP

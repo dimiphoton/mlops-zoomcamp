@@ -39,13 +39,15 @@ def preprocess(df: pd.DataFrame, dv: DictVectorizer, fit_dv: bool = False):
 @click.command()
 @click.option(
     "--raw_data_path",
+    default="data",
     help="Location where the raw NYC taxi trip data was saved"
 )
 @click.option(
     "--dest_path",
+    default="processed",
     help="Location where the resulting files will be saved"
 )
-def run_data_prep(raw_data_path: str, dest_path: str, dataset: str = "green"):
+def run_data_prep(raw_data_path:str, dest_path:str, dataset: str = "green"):
     # Load parquet files
     df_train = read_dataframe(
         os.path.join(raw_data_path, f"{dataset}_tripdata_2023-01.parquet")
@@ -80,4 +82,7 @@ def run_data_prep(raw_data_path: str, dest_path: str, dataset: str = "green"):
 
 
 if __name__ == '__main__':
+    #raw_data_path='data'
+    #dest_path='processed'
+    #dataset = "green"
     run_data_prep()

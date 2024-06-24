@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/811067925532428228/398dcdb11b23450fb66bde59079448de/artifacts
+end_time: 1717804266485
+entry_point_name: ''
+experiment_id: '811067925532428228'
+lifecycle_stage: active
+run_id: 398dcdb11b23450fb66bde59079448de
+run_name: bold-mouse-141
+run_uuid: 398dcdb11b23450fb66bde59079448de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717804249954
+status: 3
+tags: []
+user_id: DimiP

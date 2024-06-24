@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DimiP/Documents/GitHub/0%20REPOS%20My%20Learning/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/e5f7d716890a47e38fd9f7dd728637d9/artifacts
+end_time: 1717720279711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5f7d716890a47e38fd9f7dd728637d9
+run_name: mercurial-loon-161
+run_uuid: e5f7d716890a47e38fd9f7dd728637d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717720263002
+status: 3
+tags: []
+user_id: DimiP

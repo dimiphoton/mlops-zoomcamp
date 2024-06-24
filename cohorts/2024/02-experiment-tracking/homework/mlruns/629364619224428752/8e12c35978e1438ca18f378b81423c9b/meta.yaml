@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/629364619224428752/8e12c35978e1438ca18f378b81423c9b/artifacts
+end_time: 1717723757546
+entry_point_name: ''
+experiment_id: '629364619224428752'
+lifecycle_stage: active
+run_id: 8e12c35978e1438ca18f378b81423c9b
+run_name: brawny-loon-782
+run_uuid: 8e12c35978e1438ca18f378b81423c9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717723752255
+status: 3
+tags: []
+user_id: DimiP

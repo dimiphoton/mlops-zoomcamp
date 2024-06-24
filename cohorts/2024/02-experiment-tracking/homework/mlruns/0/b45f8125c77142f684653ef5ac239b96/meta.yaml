@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DimiP/Documents/GitHub/0%20REPOS%20My%20Learning/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/b45f8125c77142f684653ef5ac239b96/artifacts
+end_time: 1717720410842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b45f8125c77142f684653ef5ac239b96
+run_name: enchanting-steed-147
+run_uuid: b45f8125c77142f684653ef5ac239b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717720394306
+status: 3
+tags: []
+user_id: DimiP

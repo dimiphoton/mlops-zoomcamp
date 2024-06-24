@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DimiP/Documents/GitHub/0%20REPOS%20My%20Learning/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/a869170fba68477e97dfe78f9a90ad8a/artifacts
+end_time: 1717718208918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a869170fba68477e97dfe78f9a90ad8a
+run_name: overjoyed-fowl-933
+run_uuid: a869170fba68477e97dfe78f9a90ad8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717718190394
+status: 3
+tags: []
+user_id: DimiP

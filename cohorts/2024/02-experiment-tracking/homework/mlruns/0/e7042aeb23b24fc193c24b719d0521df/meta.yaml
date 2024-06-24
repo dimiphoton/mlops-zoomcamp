@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DimiP/Documents/GitHub/0%20REPOS%20My%20Learning/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/e7042aeb23b24fc193c24b719d0521df/artifacts
+end_time: 1717722078038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7042aeb23b24fc193c24b719d0521df
+run_name: nervous-asp-833
+run_uuid: e7042aeb23b24fc193c24b719d0521df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717722059632
+status: 3
+tags: []
+user_id: DimiP

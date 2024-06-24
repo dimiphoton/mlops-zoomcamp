@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/629364619224428752/5b67a4ab3863410e81b5c05073c7a152/artifacts
+end_time: 1717723705249
+entry_point_name: ''
+experiment_id: '629364619224428752'
+lifecycle_stage: active
+run_id: 5b67a4ab3863410e81b5c05073c7a152
+run_name: illustrious-mule-259
+run_uuid: 5b67a4ab3863410e81b5c05073c7a152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717723700248
+status: 3
+tags: []
+user_id: DimiP

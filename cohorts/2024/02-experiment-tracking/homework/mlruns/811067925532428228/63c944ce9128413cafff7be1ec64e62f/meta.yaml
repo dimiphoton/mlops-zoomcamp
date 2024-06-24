@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/811067925532428228/63c944ce9128413cafff7be1ec64e62f/artifacts
+end_time: 1717804324341
+entry_point_name: ''
+experiment_id: '811067925532428228'
+lifecycle_stage: active
+run_id: 63c944ce9128413cafff7be1ec64e62f
+run_name: treasured-stoat-535
+run_uuid: 63c944ce9128413cafff7be1ec64e62f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717804306672
+status: 3
+tags: []
+user_id: DimiP
